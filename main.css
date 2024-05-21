@@ -1,0 +1,49 @@
+.container{
+    display: flex;
+}
+
+.card img{
+    width: 700px;
+}
+.card h3{
+    color: rgb(101, 103, 105);
+}
+.card1 img{
+    width: 350px;
+    margin-left: 20px;
+}
+.card1 h2{
+    margin-left: 20px;
+    margin-top: -5px;
+}
+.card2 img{
+    width: 350px;
+    margin-left: 20px;
+}
+.card2 h2{
+    margin-top: -5px;
+    margin-left: 20px;
+}
+
+.card3 img{
+    width: 350px;
+    margin-left: 20px;
+}
+.card3 h2{
+    margin-left: 20px;
+    margin-top: -5px;
+}
+.card4 img{
+    width: 350px;
+    margin-left: 20px;
+}
+.card4 h2{
+    margin-top: -5px;
+    margin-left: 20px;
+}
+.cardlar{
+    display: flex;
+}
+.card4{
+    margin-top: 47px;
+}
